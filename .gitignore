@@ -1,0 +1,6 @@
+*.csv
+*.npy
+*.npz
+*.jpg
+*.db
+*.gz
